@@ -2,9 +2,7 @@
 
 <div style="display: flex; gap: 10px;">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asadalihaider/)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=&logo=Twitter&logoColor=white)](https://twitter.com/asad_codes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asadalihaider/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=&logo=Twitter&logoColor=white)](https://twitter.com/asad_codes)
 
 </div>
 
@@ -22,15 +20,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 ###💻 GitHub Profile Stats
 
-<table style="border: none; width: 100%;" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="width: 50%; border: none;" valign="center">
-      <img style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=asad-ali-haider&theme=dark&count_private=true" draggable="false" />     </td>
-    <td style="width: 50%; border: none;" valign="center">
-      <img style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ali-haider&layout=compact&theme=dark" draggable="false" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"><img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=asad-ali-haider&theme=dark&count_private=true" draggable="false" /><img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ali-haider&layout=compact&theme=dark" draggable="false" /></div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
