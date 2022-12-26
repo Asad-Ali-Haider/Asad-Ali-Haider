@@ -1,4 +1,5 @@
 # Hi, I'm Asad Ali Haider 👋
+
 <div style="display: flex; gap: 10px;">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asadalihaider/)
@@ -6,6 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=&logo=Twitter&logoColor=white)](https://twitter.com/asad_codes)
 
 </div>
+
 I'm a Full Stack software developer and I'm here to help making people’s life easier by developing websites and applications.
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
@@ -19,16 +21,19 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 - 😄 Pronouns: He/him
 
 ###💻 GitHub Profile Stats
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=asad-ali-haider&theme=radical&count_private=true" />
-  </div>
-  <div>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ali-haider&layout=compact&theme=radical" />
-  </div>
-</div>
+
+<table style="border: none; width: 100%;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="width: 50%; border: none;" valign="center">
+      <img style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=asad-ali-haider&theme=dark&count_private=true" draggable="false" />     </td>
+    <td style="width: 50%; border: none;" valign="center">
+      <img style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ali-haider&layout=compact&theme=dark" draggable="false" />
+    </td>
+  </tr>
+</table>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ##### Commit History:
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=asad-ali-haider&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<img alt="Asad Ali Haider's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=asad-ali-haider&bg_color=000&color=F2AA4C&line=358597&point=FFFFFF&hide_border=false" draggable="false" />
